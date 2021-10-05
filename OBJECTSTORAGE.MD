@@ -16,6 +16,7 @@ Share objects in your bucket.
 ## Create an IBM Cloud Object storage
 
  # Task I: Create an instance of IBM Cloud Object Storage:
- Log in to your IBM Cloud account that you created in an earlier lab and open the IBM Cloud Catalog https://cloud.ibm.com/catalog.
+ Log in to your IBM Cloud account that you created in an earlier lab and open the IBM Cloud Catalog
+  https://cloud.ibm.com/catalog.
 
 On the Catalog page, make sure the Services tab is selected and search and select Object Storage:
