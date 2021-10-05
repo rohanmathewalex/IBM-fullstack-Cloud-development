@@ -20,4 +20,4 @@ Share objects in your bucket.
  https://cloud.ibm.com/catalog.
 
 On the Catalog page, make sure the Services tab is selected and search and select Object Storage:
-(https://github.com/rohanmathewalex/IBM-fullstack-Cloud-development/blob/main/screenshot_objectstorage.png)
+[](https://github.com/rohanmathewalex/IBM-fullstack-Cloud-development/blob/main/screenshot_objectstorage.png)
