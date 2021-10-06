@@ -40,5 +40,13 @@ If you need to share objects in your buckets with other users, you can setup Acc
 ![''](https://github.com/rohanmathewalex/IBM-fullstack-Cloud-development/blob/main/lab-screnshots/screenshotpublicaccess.png)
 3.When you click on Public Access, a popup window appears. Click Enable to allow public access.
 ![](https://github.com/rohanmathewalex/IBM-fullstack-Cloud-development/blob/main/lab-screnshots/screenshot_enablepublicaccess.png)
+4. Next, a popup window appears that confirms you have provided public access to the Html file.
+5. Next, click Objects in the navigation pane to return to the screen where you can find the URL for the Html file that you loaded to your bucket.
+6. On the Objects page, click the ellipses (“…”) at the end of the Html file you added to your bucket, and then select Object Details from th list. A detials window pops up. Click the Copy to clipboard icon to get the Object Public URL for the Html file to share this file with others.
+7. You can also test the public URL that you copied by opening it in your browser.
+
+
+
+[Live preview](https://cloud-object-storage-pz-cos-standard-r9f.s3.jp-tok.cloud-object-storage.appdomain.cloud/index.html)
 
 
