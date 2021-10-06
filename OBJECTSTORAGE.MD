@@ -27,6 +27,6 @@ Use your IBM Cloud Lite account to create an instance of Object Storage
 
 3. On the Cloud Object Storage (COS) page, choose the Lite plan. You can use the name that is shown in Service name or rename it as you want, accept the Default resource group, and then click Create.
 4. The Objects page appears where you can click Upload and select Files or Folders from the dropdown. You can also drag and drop files or folders into the space.
-5. [''](https://github.com/rohanmathewalex/IBM-fullstack-Cloud-development/blob/main/lab-screnshots/screenshot_upload.png)
+5. ![''](https://github.com/rohanmathewalex/IBM-fullstack-Cloud-development/blob/main/lab-screnshots/screenshot_upload.png)
 
 
