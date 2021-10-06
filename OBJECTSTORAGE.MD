@@ -16,10 +16,9 @@ Use your IBM Cloud Lite account to create an instance of Object Storage
 ## Create an IBM Cloud Object storage
 
  # Task I: Create an instance of IBM Cloud Object Storage:
-<<<<<<< HEAD
+
  Log in to your IBM Cloud account that you created in an earlier lab and open the IBM Cloud Catalog
   https://cloud.ibm.com/catalog.
-=======
  1. Log in to your IBM Cloud account that you created in an earlier lab and open the IBM Cloud Catalog
  https://cloud.ibm.com/catalog.
 
