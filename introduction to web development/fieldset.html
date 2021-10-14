@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>New Html Element Fieldset</title>
+    </head>
+    <body>
+        <h1>The fieldset element</h1>
+        <!-- 
+            HTML fieldset tag
+    The HTML <fieldset> tag is found within the <form> tag and is used to group related elements in an HTML form inside a box.
+    There is no restriction to the kind of elements that can be inside a fieldset. But they are mostly used to group related input type of elements, as shown in the example below.
+    The elements grouped in a fieldset can be . This element can be specially useful in large forms, where readability and ease of access can be improved with segmentation. Browsers will most likely render a frame around the grouped controls.
+    Syntax
+    <fieldset> Contents... </fieldset>
+
+    Attribute
+    1.disabled: It specifies that the elements belonging to the fieldset should be disabled.
+    2.form: It specifies id of the form the fieldset is to be considered a part of.
+    3.name: It specifies the name for the fieldset.
+         -->
+
+        <form >
+            <fieldset form="user_regn" name="user_details">
+                <label for="fname">First name:</label>
+                <input type="text" id="fname" name="fname"><br><br>
+                <label for="lname">Last name:</label>
+                <input type="text" id="lname" name="lname"><br><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email"><br><br>
+                <label for="birthday">Birthday:</label>
+                <input type="date" id="birthday" name="birthday"><br><br> 
+            </fieldset>
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
