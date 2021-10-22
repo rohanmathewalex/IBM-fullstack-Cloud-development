@@ -1,0 +1,2 @@
+1.  [javascript cheatsheet](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-CD0101EN-SkillsNetwork/Cheatsheets/JSCheatSheets.md.html?origin=www.coursera.org)
+2. [FOr More visit this site](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkCD0101ENSkillsNetwork20336975-2021-01-01)
